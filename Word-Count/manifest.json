@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Word Counter",
+    "version": "1.0.0",
+    "description": "Counts the words on selected text",
+    "icons": {
+        "48": "icons/icon_48.png"
+    },
+    "background": {
+        "scripts": ["bg.js"]
+    },
+    "permissions": ["contextMenus", "notifications"]
+}

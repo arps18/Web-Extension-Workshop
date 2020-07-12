@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Link Highlighter",
+    "version": "1.0.0",
+    "description": "Turns all hyperlinks to red",
+    "icons": {
+        "48": "icons/icon_48.png"
+    },
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["cs.js"]
+    }]
+
+}
