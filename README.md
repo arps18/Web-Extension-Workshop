@@ -6,7 +6,7 @@ Simple & Quick Browser Extension for an ease access to your all social media pro
 
 Open __Command Prompt/Terminal__ and copy-paste the following command:
 ```
-git clone https://github.com/arps18/Web-Extensions-Workshop.git
+git clone https://github.com/arps18/Web-Extension-Workshop.git
 ```
 
 Or click on __Clone or Download__ button and choose __Download ZIP__     
